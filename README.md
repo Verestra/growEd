@@ -22,5 +22,5 @@ gh repo clone Verestra/growEd
   Dashboard <br>
   <img src="https://i.ibb.co/QJd9CdL/Dashboard.png" title="Dashboard"> <br>
   Activity <br>
-  <img src="https://i.ibb.co/MMZs6wh/Activity.png" alt="Activity>
+  <img src="https://i.ibb.co/MMZs6wh/Activity.png" title="Activity>
 </p>
